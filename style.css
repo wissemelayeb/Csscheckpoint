@@ -1,0 +1,29 @@
+nav{font-size: 30px;
+background-color: gainsboro;
+text-align:center;}
+body {
+    font-family: 'Roboto', sans-serif;
+background-color: beige ;
+}
+.navbar ul {
+    display: inline;
+  }.navbar li {
+    display: inline-block;
+  }
+  .navbar a {
+    display: block;
+    padding: 10px;
+  }
+  .highlight {
+    background-color: blanchalmond; 
+    
+  }
+ main{
+  margin-left: 5%;
+ }
+  footer{
+    display: flex;
+    justify-content: center;
+    background-color: lightblue;
+  
+  }
